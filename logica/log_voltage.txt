@@ -1,0 +1,6 @@
+{"ECG":0.18,"temperature":25.11,"position":"osition","timestamp":"2018/1/27 15:38:47"}
+{"timestamp":"2018/1/27 15:38:47"}
+{"ECG":0.18,"temperature":25.11,"position":"Supine position","timestamp":"2018/1/27 15:38:47"}
+{"ECG":0.18,"temperature":25.11,"position":"Supine position","timestamp":"2018/1/27 15:38:47"}
+{"timestamp":"2018/1/27 15:38:47"}
+{"ECG":0.18,"temperature":25.11,"position":"Supine position","timestamp":"2018/1/27 15:38:48"}

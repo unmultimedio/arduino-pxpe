@@ -1,0 +1,42 @@
+{"ECG":0.19,"temperature":26.16,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 15:55:49"}
+{"ECG":0.19,"temperature":26.16,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 15:55:52"}
+{"ECG":0.18,"temperature":26.13,"position":"non-defined position","timestamp":"2018/1/27 15:55:54"}
+{"ECG":0.18,"temperature":26.13,"position":"non-defined position","timestamp":"2018/1/27 15:55:55"}
+{"ECG":0.23,"temperature":26.23,"position":"non-defined position","timestamp":"2018/1/27 15:55:56"}
+{"ECG":0.27,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:55:57"}
+{"ECG":0.28,"temperature":26.16,"position":"Stand or sit position","timestamp":"2018/1/27 15:55:58"}
+{"ECG":0.25,"temperature":26.39,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:0"}
+{"ECG":0.25,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:1"}
+{"ECG":0.25,"temperature":26.42,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:2"}
+{"ECG":0.19,"temperature":26.33,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:3"}
+{"ECG":0.17,"temperature":26.33,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:4"}
+{"ECG":0.18,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:5"}
+{"ECG":0.18,"temperature":26.29,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:6"}
+{"ECG":0.23,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:7"}
+{"ECG":0.25,"temperature":26.23,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:8"}
+{"ECG":0.31,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:10"}
+{"ECG":0.29,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:11"}
+{"ECG":0.19,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:12"}
+{"ECG":0.18,"temperature":26.16,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:13"}
+{"ECG":0.18,"temperature":26.23,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:14"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:15"}
+{"ECG":0.18,"temperature":26.33,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:16"}
+{"ECG":0.18,"temperature":26.23,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:17"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:18"}
+{"ECG":0.17,"temperature":26.06,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:19"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:21"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:22"}
+{"ECG":0.18,"temperature":26.16,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:23"}
+{"ECG":0.18,"temperature":26.09,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:24"}
+{"ECG":0.18,"temperature":26.13,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:25"}
+{"ECG":0.18,"temperature":26.13,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:26"}
+{"ECG":0.18,"temperature":26.16,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:27"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:28"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:29"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:30"}
+{"ECG":0.18,"temperature":26.06,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:32"}
+{"ECG":0.18,"temperature":26.13,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:33"}
+{"ECG":0.18,"temperature":26.06,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:34"}
+{"ECG":0.18,"temperature":26.23,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:35"}
+{"ECG":0.18,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:36"}
+{"ECG":0.18,"temperature":26.13,"position":"Stand or sit position","timestamp":"2018/1/27 15:56:37"}

@@ -1,0 +1,6 @@
+{"ECG":0.18,"temperature":27.67,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 16:49:4"}
+{"ECG":0.18,"temperature":27.67,"position":"non-defined position","timestamp":"2018/1/27 16:49:7"}
+{"ECG":0.18,"temperature":27.67,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 16:49:8"}
+{"ECG":0.18,"temperature":27.73,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 16:49:9"}
+{"ECG":0.17,"temperature":27.87,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 16:49:10"}
+{"ECG":0.18,"temperature":27.67,"position":"Rigth lateral decubitus","timestamp":"2018/1/27 16:49:11"}

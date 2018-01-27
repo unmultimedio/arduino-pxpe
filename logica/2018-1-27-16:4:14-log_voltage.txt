@@ -1,0 +1,21 @@
+{"ECG":0.18,"temperature":26.33,"position":"defined position","timestamp":"2018/1/27 16:4:16"}
+{"ECG":0.18,"temperature":26.26,"position":"non-defined position","timestamp":"2018/1/27 16:4:19"}
+{"ECG":0.18,"temperature":26.29,"position":"non-defined position","timestamp":"2018/1/27 16:4:21"}
+{"ECG":0.18,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 16:4:22"}
+{"ECG":0.18,"temperature":26.26,"position":"Stand or sit position","timestamp":"2018/1/27 16:4:24"}
+{"ECG":0.18,"temperature":26.23,"position":"Stand or sit position","timestamp":"2018/1/27 16:4:25"}
+{"ECG":0.18,"temperature":26.13,"position":"Stand or sit position","timestamp":"2018/1/27 16:4:26"}
+{"ECG":0.18,"temperature":26.19,"position":"Stand or sit position","timestamp":"2018/1/27 16:4:27"}
+{"ECG":0.18,"temperature":26.29,"position":"Left lateral decubitus","timestamp":"2018/1/27 16:4:28"}
+{"ECG":0.18,"temperature":26.23,"position":"Supine position","timestamp":"2018/1/27 16:4:29"}
+{"ECG":0.18,"temperature":26.09,"position":"Supine position","timestamp":"2018/1/27 16:4:31"}
+{"ECG":0.18,"temperature":26.19,"position":"Supine position","timestamp":"2018/1/27 16:4:32"}
+{"ECG":0.17,"temperature":26.06,"position":"Supine position","timestamp":"2018/1/27 16:4:33"}
+{"ECG":0.18,"temperature":26.16,"position":"Supine position","timestamp":"2018/1/27 16:4:34"}
+{"ECG":0.2,"temperature":26.09,"position":"Supine position","timestamp":"2018/1/27 16:4:35"}
+{"ECG":0.18,"temperature":26.16,"position":"Supine position","timestamp":"2018/1/27 16:4:36"}
+{"ECG":0.18,"temperature":26.39,"position":"Supine position","timestamp":"2018/1/27 16:4:37"}
+{"ECG":0.18,"temperature":26.36,"position":"Supine position","timestamp":"2018/1/27 16:4:39"}
+{"ECG":0.18,"temperature":26.56,"position":"Supine position","timestamp":"2018/1/27 16:4:40"}
+{"ECG":0.19,"temperature":26.52,"position":"Supine position","timestamp":"2018/1/27 16:4:41"}
+{"ECG":0.18,"temperature":26.82,"position":"Supine position","timestamp":"2018/1/27 16:4:42"}
